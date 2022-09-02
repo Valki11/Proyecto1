@@ -2,7 +2,7 @@
 
 """
 @authors Keila Ramírez <kramireza10@miumg.gt, Dary Pérez <dperezs14@miumg.edu.gt, Marco de León <mdeleonr49@miumg.edu.gt
-@description 
+@description  triple de pitágoras, que devuelve la fórmula C^2=a^.2+b^.2
 @license GPL v3
 @date 2022/09/03
 """
