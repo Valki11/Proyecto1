@@ -1,8 +1,7 @@
-#Juego denominado "El ahorcado",en pantalla solo debe visualizarse _ _ _ _ _ _ _ _  E ir rellenándose a medida que se vaya adivinando el texto que asignamos.
 
 """
 @author Keila Ramírez <kramireza10@miumg.gt
-@description 
+@description Juego denominado "El ahorcado",en pantalla solo debe visualizarse _ _ _ _ _ _ _ _  E ir rellenándose a medida que se vaya adivinando el texto que asignamos.
 @license GPL v3
 @date 2022/09/03
 """
