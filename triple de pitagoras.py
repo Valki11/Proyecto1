@@ -11,6 +11,7 @@ b=a+1
 #importamos librería math
 import math
 print("bienvenid@, ingrese 2 numeros enteros")
+#declaramos variables a y b
 a =int(input("Ingrese #1: "))
 b= int(input("Ingrese #2: "))
 #Nos muestra en consola la diferencia de cuadrados del triple pitagórico
