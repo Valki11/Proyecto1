@@ -22,3 +22,4 @@ for b in range(1,500):
     a=math.sqrt(b**2+c**2)
     if a == int(a):
       print(b,c,int(a))
+      print("adiós")
